@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 78, 78);
+}
+h2, h5, h4, p, li{
+    color: white;
+}
+.h2_head, .h4_end{
+    text-align: center;
+}
+.unoder-list{
+    text-decoration: none;
+}
+
+

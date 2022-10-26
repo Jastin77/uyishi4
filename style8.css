@@ -1,0 +1,15 @@
+.order-list{
+    border: 20px solid rgb(255, 0, 123);
+    background-color: rgb(255, 0, 123);
+}
+.ol-li{
+    background-color: rgb(190, 243, 243);
+}
+
+.unorder-list{
+    border: 20px solid rgb(102, 102, 208);
+    background-color: rgb(102, 102, 208);
+}
+.ul-li1, .ul-li2, .ul-li3{
+    background-color: brown;
+}

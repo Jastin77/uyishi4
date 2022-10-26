@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+p, li{
+    color: rgb(174, 43, 226);
+}
+.h3-head{
+    color: rgb(60, 60, 225);
+}
+.black-link{
+    color: rgb(172, 62, 62);
+}
+.h6-end{
+    color: rgb(32, 32, 239);
+}
+strong, b{
+    color: rgb(49, 3, 92);
+}

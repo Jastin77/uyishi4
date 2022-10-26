@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-transform: capitalize;
+}
+.header{
+    box-sizing: 100px;
+    border: 2px solid rgb(224, 115, 115);
+    background-color: rgb(224, 121, 121);
+}
+h1, h3, li{
+    color: rgb(240, 22, 22);
+}
